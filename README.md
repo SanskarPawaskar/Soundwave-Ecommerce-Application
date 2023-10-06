@@ -1,2 +1,2 @@
 # Soundwave-Ecommerce-Application
-An Ecommerce web application made using spring boot
+## An e-commerce application is built using Java and Spring Boot for the backend, featuring Spring Security for authentication, Spring MVC for request handling, and Thymeleaf for HTML template processing. Data is stored in an H2 database. Also implemented Google OAuth2 for secure user authentication, simplifying the login process and ensuring data security, resulting in an efficient and user-friendly shopping experience.
